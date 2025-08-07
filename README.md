@@ -50,9 +50,11 @@
 - **Modern Frameworks**: React, Angular prevalent
 
 ### Cloud Maturity Indicators
-- **Most Mature**: Workday (born in cloud), Dayforce
+- **Most Mature**: Workday (born in cloud*), Dayforce
 - **Rapidly Evolving**: SAP SuccessFactors (cloud transformation)
 - **Established**: ADP, UKG (hybrid cloud strategies)
 
 
 *Note: This analysis is based on publicly available job postings and company communications as of August 2025. Actual internal technologies and strategies may vary.*
+
+* Workday was originally intended to be deployed "just like PeopleSoft" but made a pivot to multi-tenancy in their own data centers before initial release. Now, they still operate their own purpose-built data centers, deploy on AWS and GCP, with Adaptive Planning also deployed on Azure.
